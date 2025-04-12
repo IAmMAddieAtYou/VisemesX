@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bawnorton.mixinsquared:mixinsquared-fabric:0.2.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.bawnorton.mixinsquared" artifactId="mixinsquared-fabric" version="0.2.0" baseVersion="0.2.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bawnorton.mixinsquared/mixinsquared-fabric/0.2.0/2293fab688a8a15cacbccd5c5e6816e532b67a98/mixinsquared-fabric-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bawnorton.mixinsquared/mixinsquared-fabric/0.2.0/6d10e060761e09e326681655e7e9128492ac79d5/mixinsquared-fabric-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "net.visemesx.mixins.sodium",
+  "refmap": "$visemesx.refmap.json",
+  "compatibilityLevel": "JAVA_21",
+  "plugin": "net.visemesx.compat.sodium.SodiumCompatPlugin",
+  "mixins": [],
+  "client": [
+
+    "CubeMixinMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
